@@ -1,5 +1,5 @@
 
-public class Main extends Reservation {
+public class Main{
 
 	public static void main(String[] args) {
 		
